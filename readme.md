@@ -18,7 +18,7 @@ From there on out its all about the action listener (what a button will do when 
   
 MAKE SURE THAT THE IMAGES ARE IN THE SAME LOCATION AS THE JAVA FILES OR ELSE YOU WILL HAVE TO SPECIFY THEIR DIRECTORY!  
   
-Refer to the [javax.swing Oracle documentation]() for any additional info.  
+Refer to the [javax.swing Oracle documentation](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html) for any additional info.  
   
 Date of creation: *04/06/2022*  
 Project done by **CSwaiby** using Eclipse IDE.  
